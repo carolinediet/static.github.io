@@ -1,3 +1,60 @@
+body	{background: white }
+
 h1 {
-  color: red;
+	color: white;
+	font-size: 60px;
+	text-align: center;
+	font-family: signpainter ;
+}
+h2	{
+	color: white;
+	text-align: center;
+	font-family: marker felt;
+}
+h3	{
+	text-align: center;
+	;
+
+}
+h4	{
+	text-align: center;
+}
+img {width : 500px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+img .caro1 {width : 500px;}
+
+li	{font-family: signpainter;}
+
+a {font-family: impact;}
+.box-green {background: pink;}
+
+.box-global {
+	background :black ;
+	padding : 50px;
+	display : flex ;
+	justify-content: space-between;
+	align-items: center;
+
+
+}
+.box-blue {
+	background : blue;
+	width : 100px;
+	height : 100px;
+}
+
+.box-white {
+	background :white;
+	width : 100px;
+	height : 100px;
+}
+
+.box-red {
+	background :red ;
+	width : 100px;
+	height : 100px;
 }
